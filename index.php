@@ -2,7 +2,7 @@
 
 require_once('jobs.php');
 
-$name = 'Jorge Rangel Jimenez';
+$name = 'Jorge Rangel';
 $limitMonths = 2000;
 
 ?>
